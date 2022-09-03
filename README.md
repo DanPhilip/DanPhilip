@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DanPhilip
-- 👀 I’m interested in ... Software Engineering 
-- 🌱 I’m currently learning ... Front End Development 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... IT, Cloud Computing and Software Development. 
+- 🌱 I’m currently learning ... Front End Development and Microsoft Azure.
+- 💞️ I’m looking to collaborate on ... Web Developoment and Cloud computing.
 - 📫 How to reach me ... nwokorodaniel@gmail.com 
 
 <!---
